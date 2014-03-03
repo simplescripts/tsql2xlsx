@@ -2,7 +2,7 @@ tsql2xlsx
 ---------
 
     tsql2xlsx is a simple Perl script that converts TSQL statements in to Excel spreadsheets.
-    Prerequisite perk modules
+    Prerequisite Perl modules
     Excel::Writer::XLSX, Config::Simple, DBI
 
 License
